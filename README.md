@@ -14,6 +14,4 @@ This Goodreads Recommendation System allows users to input a link to their Goodr
 
 By leveraging these technologies, the system creates a content-based recommendation engine that helps users discover books they already have in their collection, reducing the tendency to buy new books unnecessarily.
 
-## Project Background
-
-This project was created as a final group project for Northeastern University's DS3000 course, Foundations of Data Science, in Fall 2023. Collaborators on this project were Shrutika Kumar, Madeleine Jin, Melina Yang, and Grace Pietak.
+<sub><i>This project was created as a final group project for Northeastern University's DS3000 course, Foundations of Data Science, in Fall 2023. Collaborators on this project were Shrutika Kumar, Madeleine Jin, Melina Yang, and Grace Pietak.</i></sub> 
